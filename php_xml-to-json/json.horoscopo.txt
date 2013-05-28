@@ -1,0 +1,64 @@
+{
+    "previsoes": [
+        {
+            "signo": "Áries",
+            "previsao": "O dia começa um pouco tenso, mas o astral logo melhora. Pode ter boas ideias no trabalho, na parte da manhã: compartilhe com os colegas ou com seus superiores. A sorte estará ao seu lado e pode se dar bem se fizer uma fezinha. A paquera pode trazer boas surpresas e você estará irresistível! A dois, faça algo divertido.",
+            "data": "30/09/2013"
+        },
+        {
+            "signo": "Touro",
+            "previsao": "Logo cedo, encarar as tarefas de rotina pode ser um fardo, mas você precisa dar conta das suas tarefas. Peça conselhos a alguém da família se precisar de ajuda. Saia da rotina e experimente algo novo, assim, a manhã será mais produtiva. À noite, ficar em casa pode ser uma boa: convide seu par para assistir um filme ou faça um jantar romântico.",
+            "data": "30/09/2013"
+        },
+        {
+            "signo": "Gêmeos",
+            "previsao": "Talvez seja difícil dar conta das suas tarefas logo cedo: você terá a sensação de que está tudo amarrado e até o que é rotina pode ficar mais complicado. Mas, se usar a criatividade, pode conseguir um resultado melhor. Falar sobre suas ideias é a melhor maneira de se destacar no trabalho. Na paixão, aposte num bom papo para encantar alguém.",
+            "data": "30/09/2013"
+        },
+        {
+            "signo": "Câncer",
+            "previsao": "Com boas ideias e uma maneira diferente de abordar velhos problemas, você terá tudo para se destacar no trabalho e aumentar seus ganhos na parte da manhã. Aproveite as oportunidades que surgirem de aumentar os seus lucros. A dois, o ciúme pode atrapalhar: não exagere. Na paquera, se fizer cobranças, vai acabar sozinho(a).",
+            "data": "30/09/2013"
+        },
+        {
+            "signo": "Leão",
+            "previsao": "No trabalho, logo cedo, pode sentir um certo desânimo. Mas afaste esse sentimento negativo e coloque suas ideias em prática, já que estará muito criativo(a) na parte da manhã. Você terá facilidade para liderar os colegas, além de dar uma ajuda a quem estiver precisando. Na paixão, seu lado carinhoso e encantador estará em alta, inclusive na paquera.",
+            "data": "30/09/2013"
+        },
+        {
+            "signo": "Virgem",
+            "previsao": "Logo cedo, o mau humor pode falar mais alto, mas as coisas logo melhoram. Porém, é melhor ficar no seu canto e priorizar tarefas que podem ser feitas individualmente. Assim, vai ser mais fácil se concentrar. A sensação de ser traído(a) ou a desconfiança do par pode atrapalhar esta noite. Não faça nada a menos que tenha provas, pois pode se enganar.",
+            "data": "30/09/2013"
+        },
+        {
+            "signo": "Libra",
+            "previsao": "É hora de correr atrás dos seus ideais, mesmo que eles pareçam distantes. Pela manhã, experimente fazer as tarefas de sempre de uma nova maneira: pode se surpreender com os resultados. Se precisar de ajuda ou conselho, conte com os amigos. Se está livre, eles podem te apresentar alguém interessante. A dois, astral tranquilo.",
+            "data": "30/09/2013"
+        },
+        {
+            "signo": "Escorpião",
+            "previsao": "30QUA. Você estará muito sensível aos problemas familiares nesta quarta-feira. Saturno em seu signo pode abalar o seu astral, trazendo insegurança, introversão e um maior pessimismo diante da vida. Evite assumir mais responsabilidades nesta fase, você corre o risco de se sobrecarregar. No campo afetivo, o desinteresse e a desmotivação predominam.",
+            "data": "30/09/2013"
+        },
+        {
+            "signo": "Sagitário",
+            "previsao": "Hoje, você terá confiança e iniciativa para ir atrás dos seus objetivos. Fazer planos grandiosos para o futuro pode ser uma boa e vai ajudar a levantar seu ânimo. Não deixe as boas oportunidades passarem em branco na parte da manhã. Nos assuntos do coração, espante a rotina. Se não puder se encontrar com quem ama, ligue ou mande um e-mail.",
+            "data": "30/09/2013"
+        },
+        {
+            "signo": "Capricórnio",
+            "previsao": "É melhor não confiar demais nos outros, principalmente nas pessoas que não conhece direito. Você pode evitar problemas se der ouvidos ao seu sexto sentido. Pela manhã, estará mais criativo e pode ter boas ideias, mas veja bem com quem vai compartilhá-las. Os momentos de intimidade vão pegar fogo, mas tenha cuidado com brigas e discussões.",
+            "data": "30/09/2013"
+        },
+        {
+            "signo": "Aquário",
+            "previsao": "Se quer se dar bem, aposte em trabalhos que podem ser feitos em grupo. Investir em uma sociedade ou parceria será a melhor maneira de se destacar. Logo cedo, ouça outros pontos de vista e compartilhe suas ideias, pois estará criativo. A dois, mostre o que sente e fortaleça o relacionamento. Na paquera, vai sonhar em encontrar sua alma gêmea.",
+            "data": "30/09/2013"
+        },
+        {
+            "signo": "Peixes",
+            "previsao": "Mais concentrado no trabalho, não vai se importar com tarefas de rotina, mesmo as mais cansativas. Pela manhã, porém, talvez tenha que fazer um esforço dobrado até para dar conta das coisas mais simples. Mas, se encarar os problemas com criatividade, vai se sair bem. A paquera pode deixar a desejar. A dois, fique ao lado de quem ama e deixe o egoísmo de lado.",
+            "data": "30/09/2013"
+        }
+    ]
+}
